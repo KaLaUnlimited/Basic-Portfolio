@@ -1,0 +1,82 @@
+header{
+	background-color:white;
+	font-family:'Ariel','Helvtica Neue','Helvtica','sans-serif';
+	border:#ffffff;
+	border-bottom:#d3d3d3;
+	border-style:solid;
+	border-width:medium;
+	padding-right:300px;
+	padding-bottom: 0;
+	margin-bottom: 0;
+	width:100%;
+
+	float:left;
+}
+
+h1{
+	background: #4aaaa5;
+	color:#ffffff;
+	padding-top:18px;
+	padding-bottom:20px;
+	padding-left:30px;
+	padding-right:0px;
+	width:25%;
+	margin-right:300px;
+	margin-left: 100px;
+	margin-top: 0;
+	float:left;
+	margin-bottom:0;
+	
+	
+}
+
+body{
+	padding:0;
+	margin:0;
+	width:960px;
+}
+
+.myLinks{
+	float:left;
+	margin-left:0;
+	color:#d3d3d3;
+	margin-top: 20px;
+	background-color: white;
+	margin-right: 00px;
+	padding-top: 0;
+	padding-right: 0;
+
+
+	
+}
+
+.aboutMe{
+	margin-top: 0;
+	margin-left:200px;
+	padding-top: 0;
+	height:500px;
+	background:red;
+	text-align: center;
+	width:50%;
+	float:left;
+}
+
+.connectMe{
+	float:left;
+	margin-left: 100px;
+	background: indigo;
+	margin-top:100px;
+}
+
+.footer{
+	float:bottom;
+	
+	background: blue;
+}
+.aboutMebackground{
+
+	background: yellow;
+	width:960px;
+
+
+}
