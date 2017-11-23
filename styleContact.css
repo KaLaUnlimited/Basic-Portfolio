@@ -99,9 +99,11 @@ h2{
 }
 
 .github{
-	width:42px;
-	height:42px;
-	border:0;
+	width:60px;
+	height:60px;
+	border:0;margin-left: :20px;
+	margin-top: 0;
+	
 }
 img{
 	margin-top: 10px;
