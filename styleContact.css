@@ -11,6 +11,7 @@ header{
 	width:960px;
 	height:75px;
 	float:left;
+	position: relative;
 }
 
 h1{
@@ -24,7 +25,7 @@ h1{
 	margin-right:380px;
 	margin-left: 200px;
 	margin-top: 0;
-	float:left;
+	/*float:left;*/
 	margin-bottom:0;
 
 	
@@ -39,11 +40,11 @@ body{
 
 .myLinks{
 	float:left;
-	margin-left:20px;
-	color:#d3d3d3;
-	margin-top: 20px;
+	margin-left:730px;
+	margin-top: -40px;
+	margin-bottom: -200px;
 	background-color: white;
-	margin-right: 00px;
+	margin-right: px;
 	padding-top: 0;
 	padding-right: 0;
 
