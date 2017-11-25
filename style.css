@@ -5,7 +5,7 @@ header{
 	border-bottom:#d3d3d3;
 	border-style:solid;
 	border-width:medium;
-	padding-right:300px;
+	padding-right:0;
 	padding-bottom: 0;
 	margin-bottom: 0;
 	width:100%;
@@ -28,6 +28,11 @@ h1{
 	margin-bottom:0;
 	
 	
+}
+
+h2{
+
+	margin-left: 50px;
 }
 
 body{
@@ -65,8 +70,10 @@ body{
 	float:left;
 	padding-bottom: 20px;
 	margin-bottom: 10px;
-	text-indent: 50px;
+	text-indent: 0px;
 	float: left;
+	border-width: 20px ;
+	border-color:red;
 
 }
 .greyBorder{
@@ -103,7 +110,7 @@ h2{
 	border:0;
 }
 img{
-	margin-top: 10px;
+	margin-top: 22px;
 	margin-left: 50px;
 	padding-left: 0;
 	width:150px;
