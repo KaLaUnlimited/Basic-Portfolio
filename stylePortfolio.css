@@ -173,10 +173,9 @@ img{
 .love{
 	background-color: #4aaaa5; 
 	z-index: 0;
-	width: 6%;
+	width: 23%;
 	height:40px;
-	padding-left: 15px;
-	padding-right: 95px;
+	padding:0;
 	margin-bottom: : 100px;
 	color:white;
 	margin-left: 50px;
@@ -190,6 +189,7 @@ img{
 .loveBox{
 	position: relative;
 	background:-black;
+	margin-left: 80px;
 }
 
 .imagePort{
