@@ -300,16 +300,15 @@ h2{
 .soupBox{
 	background-color: #4aaaa5; 
 	z-index: 1;
-	width: 20%;
-	height:40px;
-	padding-left: 0px;
-	padding-right: 45px;
+	width: 150px;
+	height:150px;
+	padding: 0;
 	margin-bottom: : 100px;
 	color:white;
 	margin-left: 250px;
 	text-align: left;
 	margin-right:25px;
-	margin-top: -40px;
+	margin-top: 260px;
 	position:absolute;
 	
 }
