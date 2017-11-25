@@ -285,6 +285,17 @@ h2{
 	
 }
 
+.developerBox{
+	position: relative;
+	margin-left: 100px;
+	width:150px;
+	height: 150px;
+	margin-top: 100px;
+	float:left;
+
+
+}
+
 
 .soupBox{
 	background-color: #4aaaa5; 
