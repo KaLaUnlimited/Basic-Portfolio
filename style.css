@@ -2,6 +2,8 @@ header{
 	background-color:white;
 	font-family:'Ariel','Helvtica Neue','Helvtica','sans-serif';
 	border-top: none ;
+	border-left-color: white;
+	border-right-color:white;
 	border-top-color:white;
 	border-bottom:#d3d3d3;
 	border-style:solid;
