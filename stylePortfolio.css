@@ -298,7 +298,6 @@ h2{
 
 
 .soupBox{
-	background-color: #4aaaa5; 
 	z-index: 1;
 	width: 150px;
 	height:150px;
@@ -313,28 +312,51 @@ h2{
 	
 }
 .soup{
-	position: relative;
+	background-color: #4aaaa5; 
 	z-index: 0;
+	width: 100%;
+	height:30px;
+	padding-top: 10px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-bottom: : 0px;
+	color:white;
+	margin-left: 0px;
+	text-align: center;
+	margin-right:0px;
+	margin-top: 110px;
+	position:absolute;
 }	
 
 .waterBox{
-	background-color: #4aaaa5; 
 	z-index: 1;
 	width: 150px;
-	height: 150px;
-	padding: 0px;
-	margin-bottom: 0px;
+	height:150px;
+	padding: 0;
+	margin-bottom: : 100px;
 	color:white;
-	margin-left: 250px;
+	margin-left: 380px;
 	text-align: left;
-	margin-right:25px;
-	margin-top: 441px;
+	margin-right:0px;
+	margin-top: 240px;
 	position:absolute;
 	
 }
 .waterfall{
-	position: relative;
+	background-color: #4aaaa5; 
 	z-index: 0;
+	width: 100%;
+	height:30px;
+	padding-top: 10px;
+	padding-left: 0px;
+	padding-right: 0px;
+	margin-bottom: : 0px;
+	color:white;
+	margin-left: 0px;
+	text-align: center;
+	margin-right:0px;
+	margin-top: 110px;
+	position:absolute;
 }
 .footer{
 	color:#ffffff;
