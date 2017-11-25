@@ -192,6 +192,17 @@ h2{
 	width:150px;
 	height: 150px;
 	margin-top: 30px;
+	float:left;
+}
+
+.happyBox{
+	position: relative;
+	margin-left: 130px;
+	width:150px;
+	height: 150px;
+	margin-top: 30px;
+	float:left;
+
 }
 
 .imgLove{
