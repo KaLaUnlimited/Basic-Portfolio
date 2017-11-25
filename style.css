@@ -1,7 +1,8 @@
 header{
 	background-color:white;
 	font-family:'Ariel','Helvtica Neue','Helvtica','sans-serif';
-	border-top: ;
+	border-top: none ;
+	border-top-color:white;
 	border-bottom:#d3d3d3;
 	border-style:solid;
 	border-width:medium;
@@ -16,7 +17,7 @@ header{
 h1{
 	background: #4aaaa5;
 	color:#ffffff;
-	padding-top:18px;
+	padding-top:20px;
 	padding-bottom:20px;
 	padding-left:17px;
 	padding-right:0px;
@@ -91,7 +92,7 @@ h2{
 	margin-right: 0px;
 	background: #ffffff;
 	color:#4aaaa5;
-	font-size: 18px;
+	font-size: 24px;
 	font-weight: bold;
 	margin-top:50px;
 	width: 270px;
@@ -102,11 +103,17 @@ h2{
 
 }
 
-.github{
+.github, .stackoverflow, .linkedIn{
 	width:42px;
 	height:42px;
 	border:0;
+	padding: 1px;
 }
+
+
+
+
+
 img{
 	margin-top: 22px;
 	margin-left: 50px;
