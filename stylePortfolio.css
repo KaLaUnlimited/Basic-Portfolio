@@ -59,7 +59,7 @@ body{
 	margin-right: 0;
 	padding-top: 0;
 	padding-right: 0;
-	height:375px;
+	height:700px;
 	background:#ffffff;
 	font-weight: bolder;
 	color:#777777;
@@ -173,14 +173,14 @@ img{
 .love{
 	background-color: #4aaaa5; 
 	z-index: 0;
-	width: 23%;
-	height:40px;
-	padding:0;
-	margin-bottom: : 100px;
+	width: 100%;
+	height:30px;
+	padding-top:10px;
+	margin-bottom: : 0px;
 	color:white;
-	margin-left: 50px;
+	margin-left: 0px;
 	text-align: center;
-	margin-right:25px;
+	margin-right:0px;
 	margin-top: 110px;
 	position:absolute;
 	
@@ -188,13 +188,15 @@ img{
 
 .loveBox{
 	position: relative;
-	background:-black;
-	margin-left: 80px;
+	margin-left: 130px;
+	width:150px;
+	height: 150px;
+	margin-top: 30px;
 }
 
-.imagePort{
+.imgLove{
 	
-	margin-top:20px ;
+	margin-top:0px ;
 	
 }
 .journey{
@@ -213,10 +215,7 @@ img{
 	position:absolute;
 	
 }
-.loveBox{
-	position: relative;
-	background:-black;
-}
+
 
 .developer{
 	background-color: #4aaaa5; 
