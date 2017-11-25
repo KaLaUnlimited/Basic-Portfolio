@@ -137,7 +137,7 @@ h2{
 	margin-left: 15px;
 	margin-top: 2px;
 }
-img{
+/*img{
 	margin-top: 10px;
 	margin-left: 50px;
 	padding-left: 0;
@@ -147,7 +147,7 @@ img{
 	padding-right: 0;
 	margin-right: 0; 
 	
-}
+}*/
 
 .p1{
 	background: none;
@@ -196,8 +196,46 @@ img{
 
 .imgLove{
 	
-	margin-top:0px ;
-	
+	margin: 0;
+	padding: 0;
+	width:150px;
+	height:150px;
+	float: left;
+		
+}
+
+.imgHappy{
+
+	margin: 0;
+	padding: 0;
+	width:150px;
+	height:150px;
+	float: left;
+
+}
+
+.imgDeveloper{
+	margin: 0;
+	padding: 0;
+	width:150px;
+	height:150px;
+	float: left;
+}
+
+.imgWaterFall{
+	margin: 0;
+	padding: 0;
+	width:150px;
+	height:150px;
+	float: left;
+}
+
+.imgSoup{
+	margin: 0;
+	padding: 0;
+	width:150px;
+	height:150px;
+	float: left;
 }
 .journey{
 	background-color: #4aaaa5; 
