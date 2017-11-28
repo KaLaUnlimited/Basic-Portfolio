@@ -59,7 +59,7 @@ body{
 	margin-right: 0;
 	padding-top: 0;
 	padding-right: 0;
-	height:375px;
+	height:400px;
 	background:#ffffff;
 	font-weight: bolder;
 	color:#777777;
@@ -89,6 +89,8 @@ h2{
 	color: #4aaaa5;
 	margin-left: 50px;
 }
+
+
 .connectMe{
 	float:left;
 	margin-left: 37px;
@@ -137,6 +139,7 @@ h2{
 	margin-left: 15px;
 	margin-top: 2px;
 }
+
 img{
 	margin-top: 10px;
 	margin-left: 50px;
