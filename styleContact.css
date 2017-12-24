@@ -1,3 +1,10 @@
+
+
+body{
+	padding:0;
+	margin:0;
+	width:100%;
+}
 header{
 	background-color:white;
 	font-family:'Ariel','Helvtica Neue','Helvtica','sans-serif';
@@ -35,11 +42,6 @@ h1{
 
 
 
-body{
-	padding:0;
-	margin:0;
-	width:100%;
-}
 
 .myLinks{
 	float:left;
@@ -51,6 +53,18 @@ body{
 	padding-top: 0;
 	padding-right: 0;
 	
+}
+
+.aboutMebackground{
+	background: transparent;
+	width:1070px;
+	height:486px;
+	margin-top: 0px;
+	margin-left:200px;
+	padding-bottom: 0;
+	padding-left: 0;
+	margin-bottom: 94px;
+
 }
 
 .aboutMe{
@@ -76,6 +90,16 @@ body{
 
 }
 
+form{
+
+	margin-left:50px;
+}
+
+h2{
+	color: #4aaaa5;
+	margin-left: 50px;
+}
+
 .greyBorder{
 
 	background: #cccccc;
@@ -85,12 +109,25 @@ body{
 }
 
 
-h2{
-	color: #4aaaa5;
-	margin-left: 50px;
+
+ .inputField{
+	color:#888181;
+	width:500px;
+
+  }
+  #inputMessage{
+  	color:#888181;
+  	width:500px;
+  	height:85px;
+
+  }
+
+
+.submit{
+	background: #4aaaa5 ; 
+	color:white;
+	height:40px;
 }
-
-
 .connectMe{
 	float:left;
 	margin-left: 37px;
@@ -161,17 +198,7 @@ img{
 	font-size:18px;
 }
 
-.aboutMebackground{
-	background: transparent;
-	width:1070px;
-	height:486px;
-	margin-top: 0px;
-	margin-left:200px;
-	padding-bottom: 0;
-	padding-left: 0;
-	margin-bottom: 94px;
 
-}
 
 .footer{
 	color:#ffffff;
